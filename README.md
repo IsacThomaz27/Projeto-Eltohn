@@ -21,6 +21,9 @@ Você pode abrir o arquivo `index.html` diretamente no navegador ou hospedar com
 
 # Imagem de exemplo
 
+<img width="1352" height="638" alt="image" src="https://github.com/user-attachments/assets/bf93a375-86f6-4b33-bb99-31af12f71d90" />
+<img width="1350" height="639" alt="image" src="https://github.com/user-attachments/assets/072101d5-11ba-4557-9da8-a117d80461f6" />
+
 
 # Tecnologias Utilizadas
 
